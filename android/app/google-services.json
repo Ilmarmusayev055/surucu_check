@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991727005315",
+    "project_id": "surucucheck",
+    "storage_bucket": "surucucheck.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991727005315:android:11e84e1a0c9a20b106b5b6",
+        "android_client_info": {
+          "package_name": "com.greentaxi.surucucheck.surucu_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVR6bdMhA3ekyNEbg_aFvMdEmnGSotvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

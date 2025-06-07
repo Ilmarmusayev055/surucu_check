@@ -1,0 +1,23 @@
+{
+  "name": "Ad",
+  "fin": "FIN12345",
+  "sv": "1234567",
+  "fathername": "Ata adı",
+  "phone": "+994",
+  "photoUr1": "",
+  "surname": "Soyad",
+  "entries": [
+    {
+      "park": "GreenTaxi",
+      "phone": "",
+      "photoUr1": "",
+      "status": "Problemli",
+      "reason": "Borcu var",
+      "status": "Problemli",
+      "owner": "İlmar Musayev",
+      "ownerphone": "+994501234567",
+      "note": "Xəbərdarlıq edildi",
+      "dateAdded": "2025-06-05"
+    }
+  ]
+}
